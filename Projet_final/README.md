@@ -46,7 +46,7 @@ Voici une liste non-exhaustive des pistes que vous pourriez explorer pour ce pro
 
 Vous n'aurez bien sûr pas le temps d'explorer en profondeur toutes ces idées. Cependant, on attend que vous proposiez une démarche novatrices et complémentaires à ce qui a été fait pendant le cours. 
 
-Si votre démarche n'aboutit pas à des résultats satisfaisant, elle peut quand même être documentée dans le rapport final avec les raisons qui vous ont poussé dans cette direction, et ce que vous auriez attendu en cas de succès. 
+Si votre démarche n'aboutit pas à des résultats satisfaisants, elle peut quand même être documentée dans le rapport final avec les raisons qui vous ont poussé dans cette direction, et ce que vous auriez attendu en cas de succès. 
 
 ## Rendus
 
