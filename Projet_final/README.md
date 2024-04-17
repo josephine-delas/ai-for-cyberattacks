@@ -28,12 +28,18 @@ Voici une liste non-exhaustive des pistes que vous pourriez explorer pour ce pro
 * Identifier les sujets les plus discutés par les utilisateurs en analysant les mots-clés dans leurs descriptions.
 * Examiner la répartition géographique des utilisateurs et identifier les clusters basés sur leur localisation déclarée.
 * Étudier la distribution des dates de création des comptes pour détecter des tendances ou des comportements d'inscription.
+
+
 *Analyse des Tweets* :
 * Utiliser le texte des tweets pour identifier des sujets populaires ou des tendances émergentes.
 * Étudier la corrélation entre le nombre de retweets et de likes pour identifier les tweets les plus influents.
+
+
 *Clusterisation des Utilisateurs* :
 * Utiliser des algorithmes de clusterisation les utilisateurs similaires en fonction de leurs caractéristiques (ça peut être la description, mais aussi d'autres caractéristiques auxquelles vous pourriez penser).
 * Évaluer la similarité des utilisateurs en se basant sur leurs interactions (par exemple : retweets et likes mutuels).
+
+
 *Génération de texte*
 * Utiliser l'API de twitter, ainsi que la bibliothèque `markovify`pour générer du texte cohérent avec le feed d'un utilisateur choisi
 * Affiner le modèle de génération proposé pour qu'il ressemble le plus possible à un tweet légitime (ponctuation, émoticônes, hashtags...)
